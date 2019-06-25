@@ -189,11 +189,40 @@
         1,
         null
       ],
-      "/Users/nathanthomas/turing/2module/week1/set_list/app/models/song.rb": [
+      "/Users/nathanthomas/turing/2module/week1/set_list/spec/models/artist_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        null,
+        1,
+        2,
+        null,
+        null
+      ],
+      "/Users/nathanthomas/turing/2module/week1/set_list/app/models/artist.rb": [
+        1,
+        1,
+        null,
         1,
         null
       ],
       "/Users/nathanthomas/turing/2module/week1/set_list/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/nathanthomas/turing/2module/week1/set_list/spec/models/song_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        null,
+        null
+      ],
+      "/Users/nathanthomas/turing/2module/week1/set_list/app/models/song.rb": [
         1,
         1,
         null
@@ -211,6 +240,6 @@
         null
       ]
     },
-    "timestamp": 1561412969
+    "timestamp": 1561485640
   }
 }
